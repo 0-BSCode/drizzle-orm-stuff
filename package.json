@@ -1,0 +1,13 @@
+{
+  "name": "drizzle-orm",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "typescript": "^5.3.3"
+  }
+}
